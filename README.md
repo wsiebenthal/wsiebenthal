@@ -1,16 +1,14 @@
-## Hi there 👋
+# Wesley Siebenthal
 
-<!--
-**wsiebenthal/wsiebenthal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Wesley Siebenthal, Principal R&D Engineer in medical devices and mechatronics.**
 
-Here are some ideas to get you started:
+20 years of mechanical engineering, including 10 years in medical devices. Work at Intuitive Surgical and NASA Ames. Current role: Principal R&D Engineer, Implantable Drug Delivery (self-employed). I integrate control and sensor electronics into mechanical designs, and I also design small consumer products such as straps, mounts, gadgets and accessories.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+CAD: SolidWorks, Autodesk Inventor, AutoCAD Mechanical.
+
+Founder, RV-4G LLC (2017–2024) and AmeriCast.io (2021–present).
+
+BS Mechanical Engineering, San Jose State University. Based in Daytona Beach, FL. Remote.
+
+- LinkedIn: https://www.linkedin.com/in/wesleysiebenthal
+- Email: wes7thal@gmail.com
